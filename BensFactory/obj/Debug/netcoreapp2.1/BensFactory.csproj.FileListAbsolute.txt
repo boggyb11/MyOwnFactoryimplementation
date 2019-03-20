@@ -1,0 +1,11 @@
+C:\Users\benjamin_fitzpatrick\source\repos\BensFactory\BensFactory\bin\Debug\netcoreapp2.1\BensFactory.deps.json
+C:\Users\benjamin_fitzpatrick\source\repos\BensFactory\BensFactory\bin\Debug\netcoreapp2.1\BensFactory.runtimeconfig.json
+C:\Users\benjamin_fitzpatrick\source\repos\BensFactory\BensFactory\bin\Debug\netcoreapp2.1\BensFactory.runtimeconfig.dev.json
+C:\Users\benjamin_fitzpatrick\source\repos\BensFactory\BensFactory\bin\Debug\netcoreapp2.1\BensFactory.dll
+C:\Users\benjamin_fitzpatrick\source\repos\BensFactory\BensFactory\bin\Debug\netcoreapp2.1\BensFactory.pdb
+C:\Users\benjamin_fitzpatrick\source\repos\BensFactory\BensFactory\obj\Debug\netcoreapp2.1\BensFactory.csprojAssemblyReference.cache
+C:\Users\benjamin_fitzpatrick\source\repos\BensFactory\BensFactory\obj\Debug\netcoreapp2.1\BensFactory.csproj.CoreCompileInputs.cache
+C:\Users\benjamin_fitzpatrick\source\repos\BensFactory\BensFactory\obj\Debug\netcoreapp2.1\BensFactory.AssemblyInfoInputs.cache
+C:\Users\benjamin_fitzpatrick\source\repos\BensFactory\BensFactory\obj\Debug\netcoreapp2.1\BensFactory.AssemblyInfo.cs
+C:\Users\benjamin_fitzpatrick\source\repos\BensFactory\BensFactory\obj\Debug\netcoreapp2.1\BensFactory.dll
+C:\Users\benjamin_fitzpatrick\source\repos\BensFactory\BensFactory\obj\Debug\netcoreapp2.1\BensFactory.pdb
